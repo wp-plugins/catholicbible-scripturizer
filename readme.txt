@@ -1,4 +1,4 @@
-=== CatholicBible Scripturizer ===
+=== Catholic Bible Scripturizer ===
 Contributors: wcpinho
 Donate link: http://www.bibliacatolica.com.br
 Tags: bible, catholic, church, Jesus, Cristo, Pope, Vatican
