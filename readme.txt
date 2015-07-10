@@ -28,7 +28,7 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `wp-catholic-bible.php` to the `/wp-content/plugins/` directory
+1. Upload `catholicbible-scripturizer.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
