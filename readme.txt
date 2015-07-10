@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-CatholicBible Scripturizer will convert Bible references in your posts and comments into hyperlinks to online Bibles.
+Catholic Bible Scripturizer will convert Bible references in your posts and comments into hyperlinks to online Bibles.
 
 == Description ==
 
-CatholicBible Scripturizer will convert Bible references in your posts and comments into hyperlinks to online Bibles.
+Catholic Bible Scripturizer will convert Bible references in your posts and comments into hyperlinks to online Bibles.
 
 For example, it will change John 3:16 into something like
 <a href="http://www.bibliacatolica.com.br/biblia-ave-maria/sao-joao/3/">John 3:16</a>
